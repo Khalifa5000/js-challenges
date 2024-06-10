@@ -4,11 +4,9 @@ let userTitle = "Elzero",
 
 let markUp = `
 <div class="card">
-  <div class="child">
   <h3> Hello ${userTitle}</h3>
   <p>${userDescribtion}</p>
   <span>${registrationDate}</span>
-  </div>
 </div>
 `;
 
